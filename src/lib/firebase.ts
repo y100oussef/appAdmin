@@ -6,14 +6,13 @@ import { getDatabase, Database } from "firebase/database";
 
 // Default Firebase configuration
 let firebaseConfig = {
-  apiKey: "AIzaSyCzKIhGKtwGeJBANu-5dKWe1f7Rb3p8CaE",
-  authDomain: "anghamy-c447b.firebaseapp.com",
-  databaseURL: "https://anghamy-c447b-default-rtdb.firebaseio.com",
-  projectId: "anghamy-c447b",
-  storageBucket: "anghamy-c447b.firebasestorage.app",
-  messagingSenderId: "787761857104",
-  appId: "1:787761857104:web:5af8ca7b9f4a7aea11c755",
-  measurementId: "G-YB0M3XRW59"
+ apiKey: "AIzaSyCAR-j_SqlabzxGr8K-HU8R-QZ6rv5GcVM",
+  authDomain: "dfdgfdg-8d886.firebaseapp.com",
+  projectId: "dfdgfdg-8d886",
+  storageBucket: "dfdgfdg-8d886.firebasestorage.app",
+  messagingSenderId: "229195440063",
+  appId: "1:229195440063:web:9f818a5942fd82b4488b0a",
+  measurementId: "G-SEW9SJT73H"
 };
 
 // Try to load config from localStorage if available
